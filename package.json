@@ -1,0 +1,30 @@
+{
+  "name": "tour-guide",
+  "version": "1.0.0",
+  "description": "This is for a website: Tour Guide, Delhi",
+  "main": "index.js",
+  "scripts": {
+    "lite": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/av8304/Tour-Guide.git"
+  },
+  "author": "Abhishek Verma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/av8304/Tour-Guide/issues"
+  },
+  "homepage": "https://github.com/av8304/Tour-Guide#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.13.0",
+    "bootstrap": "^4.0.0",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.12.9",
+    "social-buttons": "^2.3.7"
+  }
+}

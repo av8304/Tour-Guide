@@ -1,0 +1,65 @@
+body {
+	background-color: #DBBC9C;
+}
+
+.header-bg {
+	background-color: #8B6946;
+	border-radius: 0;
+	font-family: verdana;
+	color: #fff;
+}
+
+.carousel-item {
+	width: 100%;
+	height: 400px;
+	background-color: #8B6946;
+	position: relative;
+}
+
+.carousel-item img {
+	min-height: 250px;
+}
+
+@media only screen and (max-width: 1090px) {
+
+	.carousel-item img {
+		width: 100%;
+	}
+
+	.carousel-item .carousel-caption {
+		display: none;
+	}
+}
+
+.carousel-item .carousel-caption {
+	position: absolute;
+	top: 100px;
+}
+
+.navbar {
+	background-color: #65390D;
+}
+
+.dropdown-menu {
+	background-color: #65390D;
+}
+
+.dropdown-menu a {
+	text-decoration: none;
+	color: #fff;
+}
+
+.footer {
+	background-color: #8B6946;
+	margin-top: 30px;
+}
+
+.footer ul li, h5 {
+	color: #fff;
+}
+
+.footer ul.links-to-page a {
+	color: #fff;
+	text-decoration: none;
+}
+
