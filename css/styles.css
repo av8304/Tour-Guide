@@ -63,3 +63,41 @@ body {
 	text-decoration: none;
 }
 
+.contactus .card .card-header {
+	background-color: #2C1906;
+	color: #ff7;
+}
+
+#details-card .card-header {
+	background-color: #2C1906;
+	color: #ff7;
+}
+
+#details-card .card-body {
+	background-color: #ff9
+}
+
+.location h5 {
+	color: #000;
+}
+
+.location {
+	vertical-align: top;
+}
+
+.breadcrumb {
+	background-color: #2C1906;
+}
+
+.breadcrumb li {
+	color: #fff;
+}
+
+.breadcrumb a {
+	text-decoration: none;
+	color: #fff;
+}
+
+.modal .modal-body h5 {
+	color: #000;
+}
