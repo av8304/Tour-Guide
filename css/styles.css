@@ -1,5 +1,6 @@
 body {
 	background-color: #DBBC9C;
+	overflow-x: hidden;
 }
 
 .header-bg {
@@ -100,4 +101,21 @@ body {
 
 .modal .modal-body h5 {
 	color: #000;
+}
+
+.media {
+	border-radius: 3px;
+}
+
+.media img {
+	height: 170px;
+	width: 200px;
+}
+
+.btn-youtube {
+	color: #FF0000;
+}
+
+.btn-youtube:hover {
+	color: darkred;
 }
