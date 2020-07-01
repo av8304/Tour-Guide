@@ -119,3 +119,8 @@ body {
 .btn-youtube:hover {
 	color: darkred;
 }
+
+#eat-video {
+	border: 5px solid #fff;
+	border-radius: 2px;
+}
